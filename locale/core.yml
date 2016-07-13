@@ -9,20 +9,20 @@ core:
 
     # These translations are used in the placeholder Add Extension modal dialog.
     add_extension:
-      developer_text: "If you're a developer, you can <a>read the docs</a> and have a go at building your own extensions."
-      install_text: "In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer."
-      temporary_text: "One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We're building an ecosystem as we speak!"
+      developer_text: "Nếu bạn là nhà phát triển, bạn có thể <a>đọc thêm tài liệu</a> và bắt đầu tự tạo cho mình các phần mở rộng."
+      install_text: "Trong khi đó, bạn có thể tìm kiếm thêm phần mở rộng tại <a>Cộng đồng Flarum</a> và cài đặt chúng bằng tay sử dụng Composer."
+      temporary_text: "Vào một ngày đẹp trời, hộp thoại này sẽ cho phép bạn thêm một phần mở rộng cho diễn đàn của bạn một cách dễ dàng. Chúng tôi đang xây dựng một hệ sinh thái như chúng tôi đã nói!"
 
     # These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Colored Header
-      colors_heading: Colors
-      colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
-      custom_styles_heading: Custom Styles
-      custom_styles_text: Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's default styles.
-      dark_mode_label: Dark Mode
-      edit_css_button: Edit Custom CSS
-      enter_hex_message: Please enter a hexadecimal color code.
+      colored_header_label: "Tô màu đầu trang"
+      colors_heading: "Màu sắc"
+      colors_text: "Chọn hai màu sắc với chủ đề diễn đàn của bạn. Màu đầu tiên được chọn để làm nổi bật, màu thứ hai dùng làm màu nền."
+      custom_styles_heading: "Tùy chỉnh giao diện"
+      custom_styles_text: "Thêm mã LESS/CSS của riêng bạn để được áp dụng trên các kiểu mặc định của Flarum."
+      dark_mode_label: "Màu tối"
+      edit_css_button: "Chỉnh sửa CSS"
+      enter_hex_message: "Vui lòng chỉ nhập mã màu dạng hex."
       submit_button: => core.ref.save_changes
 
     # These translations are used in the Basics page.
