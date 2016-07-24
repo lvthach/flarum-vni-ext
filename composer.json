@@ -15,10 +15,10 @@
             "title": "Tiếng Việt",
             "icon": {
                 "name": "star",
-                "backgroundColor": "#ff0000",
+                "color": "#ff0",
+                "backgroundColor": "#f00",
                 "backgroundSize": "cover",
-                "backgroundPosition": "center",
-                "color": "#ffff00"
+                "backgroundPosition": "center"
             }
         },
         "flarum-locale": {
@@ -26,8 +26,4 @@
             "title": "Tiếng Việt"
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 0e561dfad359b82383fee4eb39e6aa38799791da

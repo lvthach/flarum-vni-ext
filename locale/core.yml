@@ -33,7 +33,7 @@ core:
       forum_description_text: "Vài thông tin mô tả về hoạt động diễn đàn. Mô tả sẽ được hiển thị trên công cụ tìm kiếm."
       forum_title_heading: "Tiêu đề"
       home_page_heading: "Trang Chủ"
-      home_page_text: "Choose the page which users will first see when they visit your forum. If entering a custom value, use the path relative to the forum root."
+      home_page_text: "Chọn trang mà lần đầu tiên người dùng sẽ nhìn thấy khi họ ghé thăm diễn đàn của bạn. Nếu nhập vào một giá trị tùy chỉnh , sử dụng đường dẫn tương đối đến thư mục gốc diễn đàn."
       saved_message: "Thay đổi của bạn đã được lưu."
       submit_button: => core.ref.save_changes
       welcome_banner_heading: "Banner đầu trang"
