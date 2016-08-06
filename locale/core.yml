@@ -27,7 +27,7 @@ core:
 
     # These translations are used in the Basics page.
     basics:
-      all_discussions_label: => "Các thảo luận"
+      all_discussions_label: => core.ref.all_discussions
       default_language_heading: "Ngôn ngữ mặc định"
       forum_description_heading: "Mô tả diễn đàn"
       forum_description_text: "Vài thông tin mô tả về hoạt động diễn đàn. Mô tả sẽ được hiển thị trên công cụ tìm kiếm."
@@ -74,12 +74,12 @@ core:
       add_button: "Thêm phần mở rộng"
       disable_button: "Vô hiệu"
       enable_button: "Kích hoạt"
-      settings_button: => "Cài đặt"
+      settings_button: "Cài đặt"
       uninstall_button: "Gỡ bỏ"
 
     # These translations are used in the session dropdown menu.
     header:
-      log_out_button: => "Đăng xuất"
+      log_out_button: "Đăng xuất"
 
     # These translations are used in the modal dialog displayed when loading extensions.
     loading:
@@ -156,7 +156,7 @@ core:
       close_tooltip: "Đóng"
       exit_full_screen_tooltip: "Thoát chế độ toàn màn hình"
       full_screen_tooltip: "Toàn màn hình"
-      minimize_tooltip: "Nén"
+      minimize_tooltip: "Thu nhỏ"
 
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
@@ -187,7 +187,7 @@ core:
       delete_button: => core.ref.delete
       delete_confirmation: "Bạn có muốn xóa thảo luận ?"
       delete_forever_button: => core.ref.delete_forever
-      log_in_to_reply_button: "Đăng nhập để trả lời"
+      log_in_to_reply_button: "Hãy đăng nhập"
       rename_button: "Đổi tên"
       rename_text: "Nhập tiêu đề mới cho thảo luận này:"
       reply_button: => core.ref.reply
