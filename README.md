@@ -1,7 +1,7 @@
 # Gói Ngôn Ngữ Tiếng Việt Cho Flarum
 
-## Cài đặt
+## Hướng dẫn Cài đặt
 
 ```
-composer require ladyga14/flarum-ext-vietnamese
+composer require lvthach/flarum-vni-ext
 ```
